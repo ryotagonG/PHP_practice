@@ -1,3 +1,4 @@
-<?php echo "Good morning"."\n";?>
-<?php echo "Good afternoon"."\n";?>
-<?php echo "Good evening"."\n";?>
+<?php
+$num;
+$num = 1;
+echo $num;
